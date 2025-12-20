@@ -58,7 +58,7 @@ The final output of this project is a Nike Product Discount Analytics Dashboard,
     * Identifies common discount ranges and outliers
 
 2. ![Discount vs Customer Rating](results/images/discount_vs_rating.png)
-    * Analyzes relationship between discount depth and ratings
+    * Analyzes the relationship between discount depth and ratings
 
 3. ![Average Discount by Category (TOP 15 Categories By Product Count)](results/images/avg_discount_by_category.png)
     * Compares pricing strategies across product categories
@@ -66,7 +66,7 @@ The final output of this project is a Nike Product Discount Analytics Dashboard,
 ### Dashboard
 
 * ![Nike Discount Product Analysis](results/images/nike_discount_analysis_dashboard.png);
-    - Displays three charts and four KPIS in the dashboard
+    - Displays three charts and four KPIs in the dashboard
 
 ## 👤 Author
 Meraj Nushin
