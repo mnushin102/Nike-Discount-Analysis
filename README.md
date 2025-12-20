@@ -54,20 +54,20 @@ The final output of this project is a Nike Product Discount Analytics Dashboard,
 
 ### 📈 Visualizations
 
-1. ![Discount Distributions of Nike Products](results/images/discount_distribution.png)
+![Discount Distributions of Nike Products](results/images/discount_distribution.png)
     * Identifies common discount ranges and outliers
 
-2. ![Discount vs Customer Rating](results/images/discount_vs_rating.png)
+![Discount vs Customer Rating](results/images/discount_vs_rating.png)
     * Analyzes the relationship between discount depth and ratings
 
-3. ![Average Discount by Category (TOP 15 Categories By Product Count)](results/images/avg_discount_by_category.png)
+![Average Discount by Category (TOP 15 Categories By Product Count)](results/images/avg_discount_by_category.png)
     * Compares pricing strategies across product categories
 
 ### Dashboard
 
-* ![Nike Discount Product Analysis](results/images/nike_discount_analysis_dashboard.png)
-    - Displays three charts and four KPIs in the dashboard
-    - https://public.tableau.com/app/profile/meraj.nushin/viz/NikeDiscountAnalysisDashboard/Dashboard1
+![Nike Discount Product Analysis](results/images/nike_discount_analysis_dashboard.png)
+    * Displays three charts and four KPIs in the dashboard
+    * https://public.tableau.com/app/profile/meraj.nushin/viz/NikeDiscountAnalysisDashboard/Dashboard1
 
 ## 👤 Author
 Meraj Nushin
