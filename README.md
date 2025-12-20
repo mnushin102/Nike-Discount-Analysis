@@ -67,8 +67,8 @@ The final output of this project is a Nike Product Discount Analytics Dashboard,
 
 * ![Nike Discount Product Analysis](results/images/nike_discount_analysis_dashboard.png)
     - Displays three charts and four KPIs in the dashboard
- 
-### ![Link to Dashboard on Tableau](https://public.tableau.com/app/profile/meraj.nushin/viz/NikeDiscountAnalysisDashboard/Dashboard1)
+
+* ![Link to Dashboard on Tableau](https://public.tableau.com/app/profile/meraj.nushin/viz/NikeDiscountAnalysisDashboard/Dashboard1)
 
 ## 👤 Author
 Meraj Nushin
