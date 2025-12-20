@@ -1,4 +1,6 @@
-# Nike-Discount-Analysis
+# 🏷️ Nike-Discount-Analysis
+
+## 📌 Project Overview
 
 This project analyzes Nike product discount data to understand pricing strategies, customer sentiment, and revenue opportunities. Using Tableau and structured data analysis techniques, the project delivers an executive-style KPI dashboard that summarizes key business insights for decision-makers.
 
