@@ -72,5 +72,5 @@ The final output of this project is a Nike Product Discount Analytics Dashboard,
 * https://public.tableau.com/app/profile/meraj.nushin/viz/NikeDiscountAnalysisDashboard/Dashboard1
 
 ## 👤 Author
-Meraj Nushin
-Bachelor’s in Computer Science
+* Meraj Nushin
+* Bachelor’s in Computer Science
